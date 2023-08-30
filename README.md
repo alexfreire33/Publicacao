@@ -15,8 +15,9 @@ Esse é um projeto de exemplo utilizando várias práticas e tecnlogias atuais d
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-projeto.git
-2. Rode o arquivo que está na pasta sql com os insertes iniciais na tabela 
-3. Para testar pode utilizar esse json no swaguer ou qualquer outro programa na rota 
+2. Rode as migrations
+3. Rode o arquivo que está na pasta sql com os insertes iniciais na tabela 
+4. Para testar pode utilizar esse json no swaguer ou qualquer outro programa na rota 
 {
   "id": "3fa85f65-5717-4562-b3fc-2c963f66afa6",
   "cdCliente": "69f7daf6-e443-4e90-8f8d-774f9fa7b028",
