@@ -1,0 +1,81 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/bin/
+**/obj/
+
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ide
+*.tlog/
+ipch/
+_ReSharper.*/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+nuget.exe
+nuget/
+*.snupkg
+[Nn]uGet.Config
+paket-files/
+paket.dependencies
+paket.lock
+
+# .NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Roslyn
+*.editorconfig
+*.sln.ide
+*.snk
+*.cer
+*.pfx
+*.seed
+*.csp
+*.pem
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio 2022 cache
+.vscode/
+.vs2022/
+.vscode-test/
+.vscode-test-results/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider-specific files
+rider-support/
+
+# End of Visual Studio 2022 / Rider section
