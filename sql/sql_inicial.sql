@@ -1,6 +1,6 @@
 INSERT INTO public.tb_cliente
 ("Id", "NmCliente", "NrCpf", "Email")
-VALUES('69f7daf6-e443-4e90-8f8d-774f9fa7b028', 'maria', '03569846659', 'ma@gmail.com');
+VALUES('69f7daf6-e443-4e90-8f8d-774f9fa7b028', 'mari', '03569846659', 'ma@gmail.com');
 
 
 INSERT INTO public.tb_cliente
